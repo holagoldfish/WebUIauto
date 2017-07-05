@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <MemberInfo_AllOK>
+		<url>https://172.16.200.60//</url>
+		<uname>测试用户200</uname>
+		<pword>aaa111</pword>
+		<ExpectValue></ExpectValue>
+		<contactName>测试二零零</contactName>
+    	<companyName>测试公司二零零</companyName>
+    	<fixedTelphonePrefix>021</fixedTelphonePrefix>
+    	<fixedTelphone>35000001</fixedTelphone>
+    	<province>北京</province>
+    	<city>东城区</city>
+    	<companyAddress>200号</companyAddress>
+    	<bankNames>回归银行</bankNames>
+    	<subbranch>东城区分行</subbranch>
+    	<account>440445475441254898</account>
+    	<companyName1></companyName1>
+    	<companyCode1>40081235-3</companyCode1>
+    	<inputtext1>C:\\Chrysanthemum.jpg</inputtext1>
+    	<inputtext2>C:\\Chrysanthemum.jpg</inputtext2>
+    	<inputtext3>C:\\Chrysanthemum.jpg</inputtext3>
+    </MemberInfo_AllOK>
+</data>

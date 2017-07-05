@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<CustomerManager_ok>
+		<url>https://172.16.200.60//</url>
+		<uname>测试用户200</uname>
+		<pword>aaa111</pword>
+		<ExpectValue></ExpectValue>
+	</CustomerManager_ok>
+</data>

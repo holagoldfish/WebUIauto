@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+	<!-- <FinanceProductCreation_ok>
+		<url>https://172.16.200.60//</url>
+		<uname>资产会员40</uname>
+		<pword>qqqqqq1</pword>
+		<ExpectValue></ExpectValue>		
+		<productName>产品预定1011</productName>
+		<purchaseAmount>1000</purchaseAmount>	
+	</FinanceProductCreation_ok> -->
+		<FinanceProductCreation_ok>
+		<url>https://172.16.200.60//</url>
+		<uname>测试用户200</uname>
+		<pword>aaa111</pword>
+		<ExpectValue></ExpectValue>		
+		<productName>测试用户20001</productName>
+		<purchaseAmount>1000</purchaseAmount>	
+	</FinanceProductCreation_ok>
+</data>

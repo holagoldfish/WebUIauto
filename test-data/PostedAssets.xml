@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+	<PostedAssets_Ok>
+		<url>https://172.16.200.60//</url>
+		<uname>测试用户200</uname>
+		<pword>aaa111</pword>
+		<ExpectValue></ExpectValue>
+		<projectName>测试用户20004</projectName>
+		<propertyType>应收账款转让类</propertyType>
+		<financingTerm>4个月</financingTerm>
+		<rate>10</rate>
+		<name>试试kan</name>
+		<index>2</index>
+		<borrower0>测试零零一</borrower0>
+		<borrowerCardId0>520116896540123564</borrowerCardId0>
+		<amount0>1000</amount0>
+		<transferAmount0>1000</transferAmount0>
+		<term0>4</term0>
+		<value0>经营贷款</value0>
+		<startDate>2014-08-26</startDate>
+		<endDate>2014-08-27</endDate>
+		<appointDeliveryMode>00350001</appointDeliveryMode>
+		<repaymentMode>00310001</repaymentMode>
+		<recommendedRating>00320001</recommendedRating>
+		<introduction>资金发布测试</introduction>
+		<purposes>融资</purposes>
+		<selectUpload>80054经营贷款</selectUpload>
+		<inputtext4>C:\\Chrysanthemum.jpg</inputtext4>		
+	</PostedAssets_Ok>
+</data>

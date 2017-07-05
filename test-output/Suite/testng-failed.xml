@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="xmlcases.FinanceProductRaise">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="FinanceProductRaise_OK" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- xmlcases.FinanceProductRaise -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

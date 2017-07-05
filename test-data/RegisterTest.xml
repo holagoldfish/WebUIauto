@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <Register_OK>
+		<url>https://172.16.200.60//</url>
+		<uname>自动化测试零零一</uname>
+		<pword>aaa111</pword>
+		<company>自动化测试零零一</company>
+		<contact>自动化测试零零一</contact>
+		<Prefix>021</Prefix>
+		<Telphone>35000002</Telphone>
+		<mobile>13564477445</mobile>
+		<ExpectValue>恭喜您，已经注册成功！</ExpectValue>
+  </Register_OK>
+    <Register_OK>
+		<url>https://172.16.200.60//</url>
+		<uname>自动化测试零零二</uname>
+		<pword>aaa111</pword>
+		<company>自动化测试零零二</company>
+		<contact>自动化测试零零二</contact>
+		<Prefix>021</Prefix>
+		<Telphone>35000002</Telphone>
+		<mobile>13564477445</mobile>
+		<ExpectValue>恭喜您，已经注册成功！</ExpectValue>
+  </Register_OK>
+    <Register_OK>
+		<url>https://172.16.200.60//</url>
+		<uname>自动化测试零零三</uname>
+		<pword>aaa111</pword>
+		<company>自动化测试零零三</company>
+		<contact>自动化测试零零三</contact>
+		<Prefix>021</Prefix>
+		<Telphone>35000002</Telphone>
+		<mobile>13564477445</mobile>
+		<ExpectValue>恭喜您，已经注册成功！</ExpectValue>
+  </Register_OK>
+ <!--   <Register_Error_OnlyMobile>
+		<url>https://172.16.200.60//</url>
+		<uname></uname>
+		<pword></pword>
+		<company></company>
+		<contact></contact>
+		<Prefix></Prefix>
+		<Telphone></Telphone>
+		<mobile>13564477445</mobile>
+		<ExpectValue>必选字段 </ExpectValue>
+  </Register_Error_OnlyMobile>-->
+</suite> <!-- Suite -->

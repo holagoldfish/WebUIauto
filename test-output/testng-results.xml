@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22658" started-at="2014-08-28T10:26:37Z" finished-at="2014-08-28T10:27:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22658" started-at="2014-08-28T10:26:37Z" finished-at="2014-08-28T10:27:00Z">
+      <class name="xmlcases.OrderManage">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:xmlcases.OrderManage@49cf882]" name="beforeMethod" is-config="true" duration-ms="4454" started-at="2014-08-28T18:26:37Z" finished-at="2014-08-28T18:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="OrderManage_ok(java.util.Map)[pri:0, instance:xmlcases.OrderManage@49cf882]" name="OrderManage_ok" duration-ms="18190" started-at="2014-08-28T18:26:42Z" data-provider="DataCommon" finished-at="2014-08-28T18:27:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{uname=资产会员40, pword=qqqqqq1, ExpectValue=, url=https://172.16.200.60//}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderManage_ok -->
+      </class> <!-- xmlcases.OrderManage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

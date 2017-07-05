@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <RegisterAndLogin_OK>
+		<url>https://172.16.200.60//</url>
+		<uname>测试用户201</uname>
+		<pword>aaa111</pword>
+		<company>测试公司二零一</company>
+		<contact>测试二零一</contact>
+		<Prefix>021</Prefix>
+		<Telphone>35000002</Telphone>
+		<mobile>13564477445</mobile>
+		<ExpectValue>恭喜您，已经注册成功！</ExpectValue>
+  </RegisterAndLogin_OK>
+</suite> <!-- Suite -->

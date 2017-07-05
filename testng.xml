@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+	   	    <!--<class name= "xmlcases.RegisterAndLogin"></class> 注册-登录  
+	   
+	   	    <class name= "xmlcases.CheckMemberInfo"></class> 申请经纪会员 
+
+	   	   <class name= "xmlcasesNeptune.MemberChecking"></class>后台审核 
+	   
+	   	   <class name= "xmlcases.CustomerManager"></class>导入客户 
+	   	   
+	   	   <class name= "xmlcases.PostedAssets"></class> 资产发布 
+	   
+	   	   <class name= "xmlcases.FinanceProductCreation"></class>理财产品定制 
+
+ 	   	   <class name= "xmlcasesNeptune.VerifyingProductPrice"></class> 理财产品核价
+
+	   	    <class name= "xmlcases.FinanceProductRaise"></class>订单撮合  -->
+	   
+	   	   <class name= "xmlcases.OrderManage"></class> 付款 
+	   	    <!--     -->  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

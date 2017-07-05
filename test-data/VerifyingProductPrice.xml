@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<data>
+    	<VerifyingProductPrice_OK>
+        	<url>https://172.16.200.60/neptune/login</url>
+        	<name>admin</name>
+        	<password>123456</password>
+        	<ExpectValue></ExpectValue>
+    	</VerifyingProductPrice_OK>
+    </data>

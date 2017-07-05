@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<FinanceProductRaise_OK>
+		<url>https://172.16.200.60//</url>
+		<uname>测试用户200</uname>
+		<pword>aaa111</pword>
+		<ExpectValue></ExpectValue>	
+		<Column>1</Column>
+		<excelfile>1</excelfile>
+		<sql>1</sql>
+		<product_name>1</product_name>
+		<created_date>1</created_date>
+		<Addnum>1</Addnum>
+	</FinanceProductRaise_OK>
+
+</data>

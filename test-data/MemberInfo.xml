@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <MemberInfo_OK>
+		<url>https://172.16.200.60//</url>
+		<uname>测试资产方1001</uname>
+		<pword>aaa111</pword>
+		<ExpectValue></ExpectValue>
+		<contactName>资产方零零一</contactName>
+    	<companyName>测试资产方1001</companyName>
+    	<fixedTelphonePrefix>021</fixedTelphonePrefix>
+    	<fixedTelphone>35000001</fixedTelphone>
+    	<province>北京</province>
+    	<city>东城区</city>
+    	<companyAddress>200号</companyAddress>
+    	<bankNames>回归银行</bankNames>
+    	<subbranch>东城区分行</subbranch>
+    	<account>440445475441254878</account>
+    </MemberInfo_OK>
+</data>
