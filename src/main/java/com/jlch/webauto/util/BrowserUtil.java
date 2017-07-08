@@ -13,8 +13,7 @@ public class BrowserUtil {
 	
     public static WebDriver driver=null;
     public PropertiesFile proFile=null;
-    private static BrowserUtil allocator;      
-   
+    private static BrowserUtil allocator;   
     private BrowserUtil(){
         initDriver();
     }
