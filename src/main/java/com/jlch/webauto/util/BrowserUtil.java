@@ -15,7 +15,7 @@ public class BrowserUtil {
     }    
     public static WebDriver getDriver()
     {    	
-    	return driver;
+    	return driver; 
     }  	    
     public static BrowserUtil getInstance(){
     	 allocator=new BrowserUtil();
