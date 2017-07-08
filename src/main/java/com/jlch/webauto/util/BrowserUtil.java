@@ -25,8 +25,7 @@ public class BrowserUtil {
     public static BrowserUtil getInstance(){
     	 allocator=new BrowserUtil();
     	 return allocator;
-    }
-    
+    }    
     
 	 public WebDriver initDriver(){	
 		 PropertiesFile proFile=new PropertiesFile();
