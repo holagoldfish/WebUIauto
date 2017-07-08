@@ -7,8 +7,7 @@ import org.openqa.selenium.ie.*;
 import org.openqa.selenium.chrome.*;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-public class BrowserUtil {
-	
+public class BrowserUtil {	
     public static WebDriver driver=null;
     public PropertiesFile proFile=null;
     private static BrowserUtil allocator;   
