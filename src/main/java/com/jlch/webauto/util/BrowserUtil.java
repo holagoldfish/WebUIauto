@@ -12,8 +12,7 @@ public class BrowserUtil {
     private static BrowserUtil allocator;   
     private BrowserUtil(){
         initDriver();
-    }
-    
+    }    
     public static WebDriver getDriver()
     {    	
     	return driver;
