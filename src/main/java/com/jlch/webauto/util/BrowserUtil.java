@@ -1,6 +1,5 @@
 package com.jlch.webauto.util;
 import java.io.File;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriver.Navigation;
 import org.openqa.selenium.firefox.FirefoxDriver;
